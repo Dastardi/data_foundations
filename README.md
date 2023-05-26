@@ -1,2 +1,2 @@
-# data_foundations
-CS3000 Work Hub
+# Data Foundations
+A work hub for DS3000
